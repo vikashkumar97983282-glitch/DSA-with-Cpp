@@ -25,4 +25,5 @@ add_executable(cpp main.cpp
         basicofcpp/swap_MinMax_array.cpp
         basicofcpp/unique_value_array.cpp
         basicofcpp/intersection_array.cpp
+        basicOfcpp/sub_array_sum.cpp
 )
