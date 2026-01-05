@@ -26,4 +26,5 @@ add_executable(cpp main.cpp
         basicofcpp/unique_value_array.cpp
         basicofcpp/intersection_array.cpp
         basicOfcpp/sub_array_sum.cpp
+        Algorithms/Kadans_algorithms.cpp
 )
