@@ -3,9 +3,9 @@ project(cpp)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(cpp main.cpp
-        first.cpp
-        even.cpp
+add_executable(cpp FirstProgram/main.cpp
+        FirstProgram/first.cpp
+        FirstProgram/even.cpp
         basicofcpp/first.cpp
         basicofcpp/typecasting.cpp
         basicofcpp/conditionalStatement.cpp
