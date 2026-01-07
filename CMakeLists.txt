@@ -27,4 +27,7 @@ add_executable(cpp FirstProgram/main.cpp
         basicofcpp/intersection_array.cpp
         basicOfcpp/sub_array_sum.cpp
         Algorithms/Kadans_algorithms.cpp
+        FirstProgram/max_productOfarray.cpp
+        FirstProgram/plus_one.cpp
+        Algorithms/Voting_algorithm_with_majority.cpp
 )
