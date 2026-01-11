@@ -30,4 +30,5 @@ add_executable(cpp FirstProgram/main.cpp
         FirstProgram/max_productOfarray.cpp
         FirstProgram/plus_one.cpp
         Algorithms/Voting_algorithm_with_majority.cpp
+        Algorithms/Power_x_n.cpp
 )
