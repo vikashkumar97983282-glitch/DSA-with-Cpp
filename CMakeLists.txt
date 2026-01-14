@@ -33,4 +33,5 @@ add_executable(cpp FirstProgram/main.cpp
         Algorithms/Power_x_n.cpp
         Algorithms/buy_and_sell_stock.cpp
         Algorithms/containeWithMostWater.cpp
+        Algorithms/ProductOfArrayExceptSelf.cpp
 )
