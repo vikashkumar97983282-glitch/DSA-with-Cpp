@@ -36,4 +36,6 @@ add_executable(cpp FirstProgram/main.cpp
         Algorithms/ProductOfArrayExceptSelf.cpp
         Algorithms/Pointers.cpp
         algo_practice/pointer_practice.cpp
+        algo_practice/array_pointer.cpp
+        algo_practice/arithmetic_pointer.cpp
 )
