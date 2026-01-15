@@ -34,4 +34,6 @@ add_executable(cpp FirstProgram/main.cpp
         Algorithms/buy_and_sell_stock.cpp
         Algorithms/containeWithMostWater.cpp
         Algorithms/ProductOfArrayExceptSelf.cpp
+        Algorithms/Pointers.cpp
+        algo_practice/pointer_practice.cpp
 )
