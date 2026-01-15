@@ -2,18 +2,19 @@
 using namespace std;
 
 
-
-void val(int* ptr) {
-    *ptr = 20;
+// pass by reference
+void val(int &b) {
+    b = 20;
 }
 
 int main() {
 
     int a = 10;
 
-    val(&a);
+    cout<<"before pass by reference:- "<<a<<endl;
+    val(a);
 
-    cout<<"value of a:- "<<a <<endl;
+    cout<<"after pass by reference:- "<<a <<endl;
 
 
     return 0;
