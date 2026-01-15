@@ -3,7 +3,7 @@ using namespace std;
 
 
 // pass by reference
-void val(int &b) {
+void val(int &b) { // pass by reference by alias
     b = 20;
 }
 
