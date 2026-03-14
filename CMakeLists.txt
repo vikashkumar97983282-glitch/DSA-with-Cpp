@@ -40,4 +40,5 @@ add_executable(cpp FirstProgram/main.cpp
         algo_practice/arithmetic_pointer.cpp
         Algorithms/Binary_Search.cpp
         Algorithms/BinarySearch_Recursive.cpp
+        basicOfcpp/first1.cpp
 )
