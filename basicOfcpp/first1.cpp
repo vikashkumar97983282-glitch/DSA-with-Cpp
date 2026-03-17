@@ -15,8 +15,8 @@ int main() {
     // cin >> l >> b;
     // cout << l * 1ll *b<<endl;
 
-    int a = 10;
-    int b = 10;
+    // int a = 10;
+    // int b = 10;
 
     // // output in true or false(0,1) form
     // cout << (a == b) << endl;
@@ -25,14 +25,25 @@ int main() {
     // cout << (a<b)<<endl;
     // cout << (a>b)<<endl;
 
-    int n;
-    cin>>n;
-    if (n%2==0) {
-        cout<<"Yes"<<endl;
+    // int n;
+    // cin>>n;
+    // if (n%2==0) {
+    //     cout<<"Yes"<<endl;
+    // }
+    // else {
+    //     cout << "No"<<endl;
+    // }
+
+    int a = 20;
+    // for (int i=0; i<=a; ++i) {
+    //     cout <<"value :- "<< i << endl;
+    // }
+
+    for (int i=0; i<=a; cout<< i++ << endl) {
+
     }
-    else {
-        cout << "No"<<endl;
-    }
+
+
 
 
 }
