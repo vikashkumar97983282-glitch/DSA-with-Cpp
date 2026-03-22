@@ -39,6 +39,8 @@ int main() {
     //     cout <<"value :- "<< i << endl;
     // }
 
+
+    // write the condition in loop
     for (int i=0; i<=a; cout<< i++ << endl) {
 
     }
