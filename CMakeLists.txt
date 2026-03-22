@@ -42,4 +42,5 @@ add_executable(cpp FirstProgram/main.cpp
         Algorithms/BinarySearch_Recursive.cpp
         basicOfcpp/first1.cpp
         Algorithms/basicHashing.cpp
+        Algorithms/arraycount.cpp
 )
