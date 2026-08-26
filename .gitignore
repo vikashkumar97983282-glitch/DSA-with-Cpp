@@ -1,37 +1,69 @@
-.External Libraries
+# ==============================
+# IDE / Editor
+# ==============================
+
 .idea/
 .vscode/
+.vs/
 
-# Build directories
+# Visual Studio Code
+*.code-workspace
+
+# ==============================
+# CMake / Build Files
+# ==============================
+
 build/
+Build/
 cmake-build-*/
 CMakeFiles/
 CMakeCache.txt
 cmake_install.cmake
 Makefile
+CTestTestfile.cmake
+compile_commands.json
+Testing/
 
-# Compiled files
+# ==============================
+# Compiled / Binary Files
+# ==============================
+
 *.o
 *.obj
 *.out
 *.exe
 *.a
+*.lib
 *.so
 *.dll
+*.dylib
 
-# Debug files
+# ==============================
+# Debug / Compiler Files
+# ==============================
+
 *.dSYM/
 *.pdb
+*.ilk
+*.idb
+*.ipch
 
+# ==============================
+# OS Files
+# ==============================
 
-# OS files
 .DS_Store
 Thumbs.db
 desktop.ini
 
+# ==============================
+# Temporary / Log Files
+# ==============================
 
-# Temporary files
 *.tmp
 *.temp
 *.log
+*.bak
 *~
+*.swp
+*.swo
