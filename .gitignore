@@ -1,2 +1,37 @@
 .External Libraries
 .idea/
+.vscode/
+
+# Build directories
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Compiled files
+*.o
+*.obj
+*.out
+*.exe
+*.a
+*.so
+*.dll
+
+# Debug files
+*.dSYM/
+*.pdb
+
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*~
