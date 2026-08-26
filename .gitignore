@@ -5,8 +5,6 @@
 .idea/
 .vscode/
 .vs/
-
-# Visual Studio Code
 *.code-workspace
 
 # ==============================
@@ -30,8 +28,8 @@ Testing/
 
 *.o
 *.obj
-*.out
 *.exe
+*.out
 *.a
 *.lib
 *.so
